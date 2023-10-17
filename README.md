@@ -1,4 +1,6 @@
 # Linux_Challenges_Kodekloud
+![Screenshot from 2023-10-17 15-35-34](https://github.com/Althaf-official/Linux_Challenges_Kodekloud/assets/105126131/3de6eb8b-1de6-41c3-acc0-98dda0e950dd)
+
 
 <h1>5th Challange  We got a couple of tasks that need to be done on centos-host server. Most of these tasks are dependent on each other but not all of them.</h1>
 
