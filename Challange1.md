@@ -1,6 +1,10 @@
 
 
 The database server called centos-host is running short on space! You have been asked to add an LVM volume for the Database team using some of the existing disks on this server.
+
+![Screenshot from 2023-10-17 22-54-48](https://github.com/Althaf-official/Linux_Challenges_Kodekloud/assets/105126131/404ed2ac-3557-47bf-b0d3-96601a556a66)
+
+
 ```
 sudo su -
 ```
